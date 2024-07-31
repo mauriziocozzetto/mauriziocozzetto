@@ -3,7 +3,7 @@
 <!--
 **giuppiF/giuppiF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am Maurizio Cozzetto, a teacher with a strong interest in Python and Machine Learning and Deep Learning.
+I am Maurizio Cozzetto, a teacher with a strong interest in Python, Machine Learning, Deep Learning and Javascript technologies.
 
 ## 🧰 My preferred languages
 
